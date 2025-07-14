@@ -43,5 +43,5 @@ Include in package.json
 ## New Project
 
 ```BASH
- npx degit jkuweb/eslint-config-template my-app
+ npx degit jkuweb/astro-boilerplate my-app
 ```
