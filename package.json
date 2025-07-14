@@ -20,6 +20,7 @@
 		"tailwindcss": "^4.1.11"
 	},
 	"devDependencies": {
+		"@commitlint/cli": "^19.8.1",
 		"@commitlint/config-conventional": "^19.8.1",
 		"@commitlint/cz-commitlint": "^19.8.1",
 		"@eslint/js": "9.31.0",
@@ -66,5 +67,10 @@
 			"eslint"
 		],
 		"*.{css,scss}": "stylelint --fix"
+	},
+	"config": {
+		"commitizen": {
+			"path": "@commitlint/cz-commitlint"
+		}
 	}
 }

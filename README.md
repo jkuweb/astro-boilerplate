@@ -1,5 +1,5 @@
  <h1 align="center">
-🔧 ASTRO boilerplate - Eslint - Prettier - Stylelint 🔦   </h1>
+🔧 ASTRO boilerplate - Eslint - Prettier - Stylelint - Husky 🔦   </h1>
 
 ## 👾Content👾
 
@@ -8,7 +8,7 @@
     eslint: "9.31.0",
     prettier: "3.6.2",
     stylelint: "^16.21.1"
-  husky: "^9.1.7"
+    husky: "^9.1.7"
 
 ## 🍓Husky🍓
 

@@ -1,4 +1,7 @@
-module.exports = { extends: ['@commitlint/config-conventional'] };
+export default {
+	extends: ['@commitlint/config-conventional'],
+	formatter: '@commitlint/format',
+};
 /*
 Las reglas convencionales son las siguientes:
 
