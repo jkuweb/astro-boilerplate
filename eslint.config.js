@@ -110,7 +110,7 @@ export default tseslint.config(
 
 	// Config para Astro
 	{
-		files: ['**/*.astro'],
+		files: ['.astro'],
 		languageOptions: {
 			parser: astroParser,
 			parserOptions: {
