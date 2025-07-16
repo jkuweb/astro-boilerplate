@@ -102,9 +102,6 @@ export default tseslint.config(
 					argsIgnorePattern: '^_',
 				},
 			],
-
-			// prettier
-			'space-before-function-paren': ['error', 'always'],
 		},
 	},
 
